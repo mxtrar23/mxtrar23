@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/heiberperezr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heiberperezr" height="30" width="40" /></a>
-<a href="https://twitter.com/arbeyperezr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arbeyperezr" height="30" width="40" /></a>
+<a href="https://twitter.com/arbeyperez23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arbeyperezr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/heiber-perez-rodriguez-9390bb79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heiber-perez-rodriguez-9390bb79" height="30" width="40" /></a>
 <a href="https://fb.com/heiberperezr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heiberperezr" height="30" width="40" /></a>
 <a href="https://instagram.com/arbeyperezr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arbeyperezr" height="30" width="40" /></a>
