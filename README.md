@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **microfront's projects**
 
-- 🌱 I’m currently learning **Astro, Zustand and more**
+- 🌱 I’m currently learning **Astro, Next, Zustand and more**
 
 - 👯 I’m looking to collaborate on [WeaterApp](https://github.com/JuanDavidRod/weather-aplication)
 
