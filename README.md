@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Astro, Next, Zustand and more**
 
-- 👯 I’m looking to collaborate on [WeaterApp](https://github.com/JuanDavidRod/weather-aplication)
+- 👯 I’m looking to collaborate on [WeaterApp](https://github.com/JuanDavidRod/weather-aplication) and [MyWalletApp](https://github.com/JuanDavidRod/my-wallet-app)
 
 - 💬 Ask me about **react JS, React Native**
 
